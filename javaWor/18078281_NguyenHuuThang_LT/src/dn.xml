@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student id="18078281">
+	<fullname>Nguyen Huu Thang</fullname>
+	<address>
+		<no>201</no>
+		<street>Nguyen Thai Son</street>
+		<district>Go Vap</district>
+	</address>
+	<email>thang@gmail.com</email>
+</student>
